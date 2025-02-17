@@ -1,0 +1,10 @@
+pegasus,true,true,true,pegasus@gmail.com,peg
+Turkish Airlines,true,false,true,thy@gmail.com,thy
+Metro Turizm,false,true,true,MetroTurizm@gmail.com,met
+TCDD,true,true,true,tcdd@gmail.com,tcd
+AtlasGlobal,true,true,false,AtlasGlobal@gmail.com,atl
+Kamil Koc,true,true,false,KamilKoc@gmail.com,kam
+YHT,true,true,false,yht@gmail.com,yht
+SunExpress,true,true,false,SunExpress@gmail.com,sun
+Ulusoy,true,true,false,Ulusoy@gmail.com,ulu
+Bosphorus Express,true,true,false,BosphorusExpress@gmail.com,bos

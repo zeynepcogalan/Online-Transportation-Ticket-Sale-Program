@@ -1,0 +1,10 @@
+Esma,Beydili,Female,112234,1,15,1000,esma@gmail.com,1
+John,Smith,Male,223456,7,20,300,johnsmith@example.com,pass123
+Emma,Johnson,Female,223456,3,10,500,emmajohnson@example.com,abcdef
+Ali,Khan,Male,332211,5,8,300,alikhan@example.com,pss11
+Maria,Rodriguez,Female,445566,5,12,450,maria@example.com,123456
+David,Lee,Male,556677,10,18,600,davidlee@example.com,1155
+Sarah,Davis,Female,778899,8,25,900,sarahdavis@example.com,pass1234
+Ahmed,Ibrahim,Male,778899,2,14,500,ahmedibrahim@example.com,mypassword
+Sofia,Martinez,Female,889900,6,16,270,sofiamartinez@example.com,hello123
+Michael,Brown,Male,889900,9,22,480,michaelbrown@example.com,zeynep

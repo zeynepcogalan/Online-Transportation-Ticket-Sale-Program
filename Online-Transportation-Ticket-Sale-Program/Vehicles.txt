@@ -1,0 +1,10 @@
+Plane,Pegasus,112234,11/12/2023,izmir-istanbul,150,40
+Plane,Turkish Airlines,223456,11/12/2023,istanbul-Ankara,200,120
+Bus,Metro Turizm,332211,11/12/2023,Ankara-izmir,50,20
+Train,TCDD,445566,11/12/2023,istanbul-Ankara,300,180
+Plane,AtlasGlobal,556677,11/12/2023,istanbul-Antalya,180,80
+Bus,Kamil Koc,667788,11/12/2023,izmir-Bodrum,40,15
+Train,YHT,778899,11/12/2023,Ankara-Konya,200,160
+Plane,SunExpress,889900,11/12/2023,Antalya-izmir,160,60
+Bus,Ulusoy,990011,11/12/2023,istanbul-Ankara,60,30
+Train,Bosphorus Express,001122, 11/12/2023,istanbul-Sofia,120,90
